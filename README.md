@@ -14,8 +14,7 @@ Sou estudante do 5º semestre do curso de Tecnólogo em Análise e Desenvolvimen
 
 Durante o ensino médio, cursei a Escola Técnica Estadual (ETEC) com técnico em administração, o que me permitiu ter contato com setor empresarial e seu funcionamento. Ali tive foco de aprendizados em soft skills, como comportamentos esperados em cada ambiente, a importância da disciplina e planejamento para alcançar objetivos. Também adquiri capacidade de interagir com grupos, estar aberta a ideias diversificadas e lidar com pessoas de diferentes perfis. Complementei meu repertório acadêmico naquele período com cursos de inglês, concluindo todas as etapas de formação, o que me permitiu me formar com nível de inglês avançado classificado como C1 pela prova de nivelamento da MIT (Instituto de Tecnologia de Massachusetts).
 
-Para complementar minha trajetória até o momento, iniciei atividades extracurriculares no ensino superior, como a iniciação científica/tecnológica na área de estudos do meu curso. Agora, estou pronta para dar um próximo passo e ingressar no mercado de trabalho.
-
+Para complementar minha trajetória até o momento, iniciei atividades extracurriculares no ensino superior, como a iniciação científica/tecnológica na área de estudos de processamento digital de imagens. A participação nesse projeto me permitiu desenvolver minhas hard skills, tendo em vista que foi um estudo com muita prática, assim, as principais habilidades técnicas que aprimorei foram lógica de progração e conhecimento nas linguagens JavaScript e TypeScript.
 </Div>
 
 <Div align="center" >
