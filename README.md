@@ -96,6 +96,10 @@ Neste projeto fiquei responsável pela parte da raspagem de dados, ou seja, no d
 
 </Div>
 
+### Resultado da raspagem de dados:
+ <img src='https://user-images.githubusercontent.com/100849359/172060856-b40b4308-8df8-4aee-bf47-a18cb58d6d8e.gif' width='80%' height='80%'>
+</div>
+
 ### Hard skills
 
 * Criação de um programa em Python para extração de dados de uma página web:
