@@ -54,10 +54,10 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Página Home;
-- Página de Cursos e Certificações;
-- Página de Vagas de Emprego;
-- Página de Métricas;
-- Página de Localização;
+- Página de Cursos e Certificações
+- Página de Vagas de Emprego
+- Página de Métricas
+- Página de Localização
 </Div>
 
 ### Tecnologias utilizadas
@@ -75,9 +75,6 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
   > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
-  
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
-  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
@@ -112,9 +109,6 @@ Neste projeto fiquei responsável pela parte da raspagem de dados, ou seja, no d
 > Sei fazer com autonomia.
 
 ### Soft skills
-
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
 
 * Comunicação 
 > Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
