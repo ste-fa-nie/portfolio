@@ -33,26 +33,31 @@ Durante o 2º semestre, participei de um treinamento de metodologia ágil, que t
 | :-------: | :--------: | :----: | :--------: |
 | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
-Alguns dos cursos realizados e certificados.
+Cursos sendo realizados
 
 |   Curso  |  Plataforma  |   Status    |
 | :---   | :---    | :---      |
-| Laboratório de Programação Orientada a Objetos |  ![USP](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)  | Concluído |
-| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
-| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Concluído |
+| Introduction to MongoDB | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em andamento |
+| MongoDB Node.js Developer Path | ![MongoDB University](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |  Em andamento |
 
 ## Projetos
 
 </Div>
 
-### Em 2021-2
+### Em 2022-1
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/)
+> [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em estabelecer e manter um site web que armazenasse todos os Projetos Integradores desenvolvidos na FATEC de São José dos Campos desde o início de sua implementação. Para alcançar esse objetivo, nossa equipe criou um site destinado à exposição desses projetos, bem como o desenvolvimento de um programa em Python projetado para a raspagem e clonagem dos repositórios git.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em estabelecer e manter um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas e cursos disponiveis.
 
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Página Home;
+- Página de Cursos e Certificações;
+- Página de Vagas de Emprego;
+- Página de Métricas;
+- Página de Localização;
 </Div>
 
 ### Tecnologias utilizadas
@@ -87,17 +92,20 @@ O projeto integrador do primeiro semestre do curso envolveu colaboração com um
 
 <Div align="justify" >
 
-Neste projeto fiquei responsável pela parte do Front-End, ou seja, na criação do site para a exibição dos links dos repositórios raspados e clonados e da página home do site utilizando HTML5 e CSS3, e também na parte de documentação do ReadMe do GitHub.
+Neste projeto fiquei responsável pela parte da raspagem de dados, ou seja, no desenvolvimento de um programa que extraísse informações listadas em sites externos e armazenasse essas informações num arquivo CSV.
 
 </Div>
 
 ### Hard skills
 
-* Desenvolvimento WEB (Utilizando HTML5 & CSS3)
+* Criação de um programa em Python para extração de dados de uma página web:
 > Sei fazer com autonomia.
 
-* Controle de versionamento (GIT)  
-> Sei fazer com ajuda.
+* Criação de protótipos de página web pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de páginas web utilizando as linguagens HTML e CSS:
+> Sei fazer com autonomia.
 
 ### Soft skills
 
