@@ -50,7 +50,7 @@ Cursos sendo realizados
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas e cursos disponiveis.
+O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponiveis.
 
 As páginas desenvolvidas no projeto como requisitos funcionais foram:
 - Página Home;
