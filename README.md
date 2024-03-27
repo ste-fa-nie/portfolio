@@ -71,7 +71,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML 
-  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação do conteúdo extraído do site da Fatec (APIs passadas) que era nosso principal objetivo.
+  > Utilizamos HTML em nosso projeto para a criação da estrutura das páginas web para apresentação das vagas de cursos e empregos disponíveis, também criamos uma página que exibia métricas a respeitos dessas vagas listadas no site.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS 
   > Utilizamos o CSS para estilizar, assim melhorando a apresentação visual de nossas páginas criadas com HTML. Com o CSS, conseguimos controlar cores, fontes e layout.
@@ -80,7 +80,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
   > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python 
-  > Utilizamos o Python para o 'web scraping' no site da Fatec, extraindo os links das informações das APIs passadas de todos os cursos.
+  > Utilizamos o Python para o 'web scraping' em sites de vaga de empregos e cursos, extraindo informações como título da vaga, localização, empresa, salário e o link que redirecionava para a página da vaga.
 
  </details>
  
