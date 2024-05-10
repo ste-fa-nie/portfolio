@@ -177,3 +177,76 @@ for i in range(1,int(65)):
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
 
+
+### Em 2022-1
+
+<Div align="justify" >
+  
+> [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
+
+O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Track Cash. Seu propósito central consistia em uma aplicação desktop com objetivo de integração de registros de canais de vendas; em lojas físicas ou online; com o cliente que quer acessar a plataforma, afim de interagir as informações de vendas desses canais. Para alcançar esse objetivo, foi necessário a criação de um software desktop intalável.
+
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Home
+- Login
+- Cadastro
+- Cadastrar canal de vendas
+- Configuração ativas
+- Configurações de canais
+- Canais ativos
+- Dúvidas frequentes
+- Desativar atividade de usuário
+- Alterar senha.
+</Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Atuei como Scrum Master durante esse projeto e também contribui no desenvolvimento do protótipo e das interfaces e funcionalidades de visualização e filtragem, edição e exclusão de canais e usuários.
+
+### Resultado das telas:
+ <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%202/gifs/Campo%20de%20Busca.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2022.2/blob/main/doc/sprint%202/gifs/Edi%C3%A7%C3%A3o%20de%20Canais.gif?raw=true' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%204/gifs/Frontend%20Atualizado%20Administrador.gif' width='65%' height='65%'>
+
+</div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/> Net Beans 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> Java 
+ > Utilizamos a linguagem Java para o desenvolvimento do software desktoop.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+
+ </details>
+
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de interface (front-end) e funcionalidade (back-end) de software utilizando a linguagem Java:
+> Sei fazer com pesquisa e ajuda.
+
+### Soft skills
+* Organização 
+> Como Scrum Master, consegui auxiliar a equipe a se organizar através de plataformas de gestão de projetos e controle de tempo. Com reuniões de equipe, decidimos o peso das atividades através do desenvolvimento do burndown e backlog.
+
+* Comunicação 
+> Como Scrum Master, ajudei a resolver conflitos, já que houveram alguns desentendimentos entre os membros da equipe, e complicações pessoais que acabaram refletindo no trabalho. Através de conversas individuais e em grupo, entramos num consenso juntos para que ninguém se sobrecarregasse ou se desentendesse. Assim, conseguimos superar os obstáculos e entregar tudo conforme o esperado.
+ 
+* Proatividade e Trabalho em equipe
+> Como Scrum Master, procurei ajudar meus colegas caso tivessem dificuldade em se organizar ou aprender a tecnologia, para que não houvessem atrasos nas entregas. Ajudei no desenvolvimento do projeto também.
+
+<hr /> 
+
