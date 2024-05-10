@@ -250,3 +250,82 @@ Atuei como Scrum Master durante esse projeto e também contribui no desenvolvime
 
 <hr /> 
 
+### Em 2023.1
+
+<Div align="justify" >
+
+> [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
+
+O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Visiona. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
+
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Home
+- Login
+- Cadastro
+- Dashboard de usuários
+- Lista de usuários.
+- Edição e exclusão de usuário
+</Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Durante o projeto do terceiro semestre, construi o protótipo pelo figma e atuei como desenvolvedora backend nas interfaces de cadastro de usuários, controle de usuários (visão de usuários registrados no sistema), edição, exclusão de usuários e dashboard com métricas de usuários utilizando React, JavaScript, NodeJs. 
+
+### Resultado das interfaces:
+ <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/7_ativar%20desativar%20usu%C3%A1rio.gif?raw=true' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint4/gifs/deletar-user.gif?raw=true' width='65%' height='65%'>
+ 
+</div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+ > Utilizamos React para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+ > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+ > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> Postgresql
+ > Utilizamos o Postgresql como banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+
+ </details>
+
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
+> Sei fazer com autonomia.
+
+### Soft skills
+* Organização 
+> Como Scrum Maaster, adiquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+
+* Comunicação 
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+ 
+* Proatividade
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+
+<hr /> 
