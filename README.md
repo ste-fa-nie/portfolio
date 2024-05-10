@@ -317,15 +317,103 @@ Durante o projeto do terceiro semestre, construi o protótipo pelo figma e atuei
 
 ### Soft skills
 * Organização 
-> Como Scrum Maaster, adiquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+> Aquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
 
 * Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. 
+ 
+* Proatividade
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+
+* Trabalho em equipe
+> Capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+
+<hr /> 
+
+<div name="4sem"></div>
+
+### Em 2023.2
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
+
+O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
+
+As interfaces desenvolvidas no projeto como requisitos funcionais foram:
+- Home
+- Login
+- Cadastro
+- Dashboard de usuários
+- Comprar óleo
+- Cadastrar óleo
+- Estoque de óleo
+- Transferência de Greenneats
+- Definição do valor do óleo
+- Histórico de compra de óleo
+- Tranferência de greenneats.
+- 
+</Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Atuei no desenvolvimento do protótipo e das interfaces (frontend), utilizando React, JavaScript, NodeJs.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
+ <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%203/Gifs/EmrpesaComrpaOleoParc.gif' width='65%' height='65%'>
+ 
+</div>
+
+### Tecnologias utilizadas
+
+ <details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+ > Utilizamos React para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+ > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+ > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"/> Postgresql
+ > Utilizamos o Postgresql como banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Microsoft_Planner_%282019%E2%80%93present%29.svg/768px-Microsoft_Planner_%282019%E2%80%93present%29.svg.png"/> Microsoft Planner
+  > Utilizamos o Microsoft Planner para organização de atividades e enntregas.
+
+
+ </details>
+
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
+> Sei fazer com autonomia.
+
+### Soft skills
+* Organização 
+> Através da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+
+* Comunicação 
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto.
  
 * Proatividade
 > Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
 
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
-
-<hr /> 
