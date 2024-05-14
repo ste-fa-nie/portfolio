@@ -203,7 +203,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Atuei como Scrum Master durante esse projeto e também contribui no desenvolvimento do protótipo e das interfaces e funcionalidades de visualização e filtragem, edição e exclusão de canais e usuários.
+Atuei como Scrum Master durante esse projeto e também contribui no desenvolvimento do protótipo e das interfaces e funcionalidades de visualização e filtragem, edição e exclusão de canais e usuários. Para organizar a equipe e o projeto, utilizei de ferramentas de gestão de documentos e processos como Notion e Planner. Através delas, foi possível documentar as atividades de cada membro da equipe e suas contribuições, permitindo uma visão mais ampla do progresso do projeto como um todo. Faziamos reuniões durante as aulas disponibilizadas para API (2 a 3 vezes na semana) e outras reuniões pontuáis conforme via necessidade.
 
 ### Resultado das telas:
  <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%202/gifs/Campo%20de%20Busca.gif' width='65%' height='65%'>
@@ -271,7 +271,7 @@ As páginas desenvolvidas no projeto como requisitos funcionais foram:
 
 <Div align="justify" >
 
-Durante o projeto do terceiro semestre, construi o protótipo pelo figma e atuei como desenvolvedora backend nas interfaces de cadastro de usuários, controle de usuários (visão de usuários registrados no sistema), edição, exclusão de usuários e dashboard com métricas de usuários utilizando React, JavaScript, NodeJs. 
+Durante o projeto do terceiro semestre, construi o protótipo pelo figma e atuei como desenvolvedora backend nas interfaces de cadastro de usuários, controle de usuários (visão de usuários registrados no sistema), edição, exclusão de usuários e dashboard com métricas de usuários utilizando React, JavaScript, NodeJs. Auxiliei na criaçãode alguns ajustes de componentes no frontend com o framework MaterialUI.
 
 ### Resultado das interfaces:
  <img src='https://github.com/4DeskGroup/API-2023.1/raw/main/doc/sprint%203/gifs/8_dashboard.gif?raw=true' width='65%' height='65%'>
@@ -352,14 +352,14 @@ As interfaces desenvolvidas no projeto como requisitos funcionais foram:
 - Definição do valor do óleo
 - Histórico de compra de óleo
 - Tranferência de greenneats.
-- 
+  
 </Div>
 
 ### Contribuições pessoais
 
 <Div align="justify" >
 
-Atuei no desenvolvimento do protótipo e das interfaces (frontend), utilizando React, JavaScript, NodeJs.
+Atuei no desenvolvimento do protótipo e das interfaces (frontend) de cadastro com um componente de stepper para progresso,estoque de óleo e histórico de compra de óleo, estoque de óleo, cadastrar óleo, juntamente com o backend para todas essas páginas que exibiam listas de históricos (trazer do banco as tabelas com os dados a serem visualizados). Foi utilizado React, JavaScript, NodeJs. 
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2023.2/raw/main/Projeto/Sprint%204/Gifs/DashBoardGIF.gif' width='65%' height='65%'>
