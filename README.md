@@ -447,7 +447,7 @@ Contribuí também no design do produto, feito no Figma e no desenvolvimento fro
 
 ### Resultado das páginas em front-end:
  <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20s1/adm-lista-de-parceiros-gerenciar-expertises.gif?raw=true' height='400'>
  
 </div>
 
