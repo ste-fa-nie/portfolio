@@ -417,3 +417,82 @@ Atuei no desenvolvimento do protótipo e das interfaces (frontend) de cadastro c
 
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> 
+<hr /> 
+
+<div name="5sem"></div>
+
+### Em 2024.1
+
+<Div align="justify" >
+
+> [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
+
+O projeto integrador do quinto semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile
+
+As páginas desenvolvidas no projeto como requisitos funcionais foram:
+- Interface de login
+- Interface de cadastro de parceiros
+- Interface de consultores de alianças
+- Interface de dashboard de os usuários e desempenho dos parceiros por Tracks
+- Interface de inicial com menu de opções com distinção para administrador e consultor de alianças.
+</Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Minha atuação nesse projeto se deu com a função de Project Owner (PO) e desenvolvimento frontend. Como PO fiquei responsável pelo levantemento de requisitos do produto, interação com o cliente para entender com maior precisão as funcionalidades necessárias na aplicação, definição de User Stories e quebra de tarefas e requisitos para o desenvolvimento. Junto da Scrum Master e time de desenvolvimentos, definimos o MVP a ser entregue em cada sprint. Utilizei a plataforma Slack para contar a Oracle e tirar dúvidas do produto a ser desenvolvido.
+Contribuí também no design do produto, feito no Figma e no desenvolvimento front-end utilizando tecnologias como React-Native, NodeJs e JavaScript para desenvolvimento dos componentes e interfaces (menus, listas de usuários, progressos de tracks/expertises/certificações e dashboards) e construção e estrutura das interfaces.
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/adicionar_track%5D.gif' height='400'>
+ 
+</div>
+
+### Tecnologias utilizadas
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+ > Utilizamos React para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+ > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+ > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+
+ <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
+ > Utilizamos o Mongodb como banco de dados.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+ <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
+  > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
+
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
+> Sei fazer com autonomia.
+
+### Soft skills
+* Organização 
+> Como Scrum Maaster, adiquiri por meio da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+
+* Comunicação 
+> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+ 
+* Proatividade
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+
+* Trabalho em equipe
+> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
