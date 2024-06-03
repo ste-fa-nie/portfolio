@@ -462,7 +462,7 @@ Contribuí também no design do produto, feito no Figma e no desenvolvimento fro
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
    <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
-   > Utilizamos React para o desenvolvimento da aplicação web.
+   > Utilizamos React para o desenvolvimento da aplicação.
   
    <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
    > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
@@ -473,7 +473,7 @@ Contribuí também no design do produto, feito no Figma e no desenvolvimento fro
    <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
    > Utilizamos o Mongodb como banco de dados.
   
-    <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
     > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
   
    <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
