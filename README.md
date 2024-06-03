@@ -452,47 +452,54 @@ Contribuí também no design do produto, feito no Figma e no desenvolvimento fro
 </div>
 
 ### Tecnologias utilizadas
-   
+
+  <details><summary>Tecnologias</summary>
+    
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
 
-<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
   > Utilizado para o desenvolvimento do código de todo o projeto.
 
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
- > Utilizamos React para o desenvolvimento da aplicação web.
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"/> React
+   > Utilizamos React para o desenvolvimento da aplicação web.
+  
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
+   > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
+  
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
+   > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
+  
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
+   > Utilizamos o Mongodb como banco de dados.
+  
+    <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
+    > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+  
+   <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
+    > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
 
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> JavaScript
- > Utilizamos a linguagem JavaScript para o desenvolvimento da aplicação web.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/> Nodejs
- > Utilizamos o NodeJs para ambiente de execução em uma máquina virtual própria para interpretar e executar os scripts.
-
- <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg"/> Mongodb
- > Utilizamos o Mongodb como banco de dados.
-
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
-
- <img width="50 rem" src="https://github.com/LaizaCristina/Portifolio-TG/blob/main/images/microsoft_office_excel_logo_icon_145720.png"/> Microsoft Excel
-  > Utilizamos o Microsoft Excel para organização de atividades e enntregas.
-
+   </details>
+ 
 ### Hard skills
 * Criação de protótipos pelo Figma:
 > Sei fazer com autonomia.
 
-* Desenvolvimento de telas em aplicação web utilizando React e JavaScript:
+* Desenvolvimento de interfaces com foco em frontend em aplicação mobile utilizando React e JavaScript:
 > Sei fazer com autonomia.
+
+* Desenvolvimento com foco em backend em aplicação mobile utilizando React e JavaScript:
+> Sei fazer com auxilio e consultas.
 
 ### Soft skills
 * Organização 
-> Como Scrum Maaster, adiquiri por meio da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+> Como Project Owner, aprendi a levantar requisitos funcionais e não funcionais para o produto, interagir com o cliente e entender sua necessidade através de perguntas direciodas. Também obtive progresso no uso de ferramentas de gestão de projetos, como o Jira, onde defini histórias de uso e quebras de tarefas de cada uma.
 
 * Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. Além de resolver conflitos aprentes na equipe.
+> Alcançada por meio da comunicação estabelecida com a equipe e com o cliente, durante reuniões frequentes pessoalmente com o time de desenvolvimento e contato com o cliente pela plataforma Slack, também adquirida através da divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos enfrentados no desenvolvimento do projeto.
  
 * Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologia React Native, já que foi meu primeiro contato com o framework. Também busquei aprimorar minha habilidade de planejamento de produto e escrita de hisórias e quebras de tarefas.
 
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
