@@ -406,18 +406,32 @@ Atuei no desenvolvimento do protótipo e das interfaces (frontend) de cadastro c
 > Sei fazer com autonomia.
 
 ### Soft skills
-* Organização 
-> Através da gestão do projeto utilizando ferramenta Plannser para auxílio, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
+* Organização
+> A desorganização inicial na distribuição de tarefas e na identificação de dependências impactou diretamente o progresso do projeto. Apesar disso, foi uma oportunidade para desenvolver minhas habilidades organizacionais ao:  
+  > - Identificar lacunas no backlog e criar um mapeamento mais detalhado das dependências entre tarefas.  
+  > - Sugerir melhorias na organização, como revisar as tarefas durante os daily meetings para garantir que todos entendessem suas responsabilidades.  
+  > - Assumir a iniciativa de alinhar com o time quais telas ainda estavam pendentes e priorizar a entrega, mesmo que precisasse conciliar isso com outras demandas de desenvolvimento backend.  
 
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto.
- 
+* Comunicação
+> A falta de clareza nas responsabilidades gerou tensão entre os membros da equipe, mas também me ajudou a perceber a importância de manter uma comunicação constante e proativa. Essa experiência foi importante para:
+  > - Alinhar as entregas do frontend com o time de backend, garantindo que as dependências fossem resolvidas antes do trabalho ser bloqueado.  
+  > - Mediar as cobranças entre colegas, promovendo conversas mais construtivas para resolver problemas, ao invés de gerar conflitos.  
+  > - Estabelecer um fluxo mais claro para informar as entregas, como a conclusão de telas ou APIs, de modo que todos soubessem o status do projeto.  
+
 * Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+> Os desafios do projeto exigiram que eu fosse proativa, especialmente diante do acúmulo de tarefas devido à falta de organização. Demonstrei essa habilidade ao:  
+  > - Assumir a responsabilidade de finalizar telas de frontend que estavam pendentes, mesmo que não estivessem atribuídas diretamente a mim, para garantir o avanço do projeto.  
+  > - Realizar ajustes no backend para desbloquear o trabalho de outros desenvolvedores, reduzindo o tempo ocioso da equipe.  
+  > - Propor melhorias no planejamento das próximas sprints, como criar um checklist para garantir que todas as telas e funcionalidades fossem mapeadas antes do início do desenvolvimento.  
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
-> 
+> Apesar dos conflitos iniciais, o projeto me ajudou a desenvolver uma abordagem mais colaborativa com o time, priorizando soluções conjuntas para os problemas enfrentados. Isso foi alcançado ao:  
+  > - Trabalhar de forma integrada com os colegas, propondo revisões no backlog e acompanhando as dependências de tarefas que afetam diferentes áreas do projeto.  
+  > - Oferecer suporte técnico a outros desenvolvedores, garantindo que o trabalho fluísse enquanto eu resolvia tarefas prioritárias.  
+  > - Manter um espírito de equipe, mesmo em momentos de pressão, ajudando a manter o foco no objetivo final: entregar o projeto no prazo.  
+
+
+
 <hr /> 
 
 <div name="5sem"></div>
@@ -532,7 +546,7 @@ RF6 - Personalização de Respostas com Base no Histórico de Conversa
 Minha atuação nesse projeto se deu na atuação da posição de Product Owner (PO). Como PO, fui responsável por realizar o levantamento de requisitos do produto e interagir diretamente com o cliente Dom Rock para compreender detalhadamente as funcionalidades necessárias na aplicação. Além disso, defini as User Stories, quebrei as tarefas e requisitos para facilitar o desenvolvimento. Planejei o MVP a ser entregue em cada sprint. Também utilizei a plataforma Slack para esclarecer dúvidas com a empresa Dom Rock sobre o produto em desenvolvimento. Por fim, conduzi reuniões e cerimônias com o time de desenvolvimento, tal como refinamento técnico e planning, para que eu entendesse o processo para desenvolvimento de forma mais acertiva e explicasse corretamente as user histórias e tarefas técnicas correspondentes à cada uma para o time de desenvolvimento. Minha contribuição se estendeu ao design do produto, que foi desenvolvido no Figma. 
 
 ### Resultado das páginas em front-end:
- <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+ <img src='https://github.com/4DeskGroup/API-2024.2/blob/main/docs%20sprints/sprint2.gif'  height='400'>
  
 </div>
 
