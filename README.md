@@ -503,3 +503,109 @@ Contribuí também no design do produto, feito no Figma e no desenvolvimento fro
 
 * Trabalho em equipe
 > Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+
+
+<div name="5sem"></div>
+
+### Em 2024.2
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semetre](https://github.com/4DeskGroup/API-2024.2)
+
+O projeto integrador do sexto semestre do curso envolveu colaboração com cliente Dom Rock. O desafio foi desenvolver uma IA capaz de analisar e gerar insights a partir de reviews de produtos de e-commerce, ajudando o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deveria ser capaz otimizar o processo de escolha de fornecedores e produtos, levando em consideração feedbacks de consumidores para área de compras de uma empresa. A utilização do usuário com a IA foi voltada para avaliar a qualidade e aceitação de produtos com base em reviews, identificar tendências e preferências dos consumidores e comparar fornecedores com base em feedback de clientes.
+
+
+Foi desenvolvida apenas uma interface visual para o chatbot que abrangeu os seguintes requisitos funcionais foram:
+RF1 - Especificações de Produtos a partir de Reviews
+RF2 - Sugestões de Produtos, por categoria inclusive
+RF3 - Comparações de Produtos, levando em conta custo-benefício
+RF4 - Análise de Sentimento a partir de Reviews
+RF5 - Análise de Tendências de Opinião
+RF6 - Personalização de Respostas com Base no Histórico de Conversa
+</Div>
+
+### Contribuições pessoais
+
+<Div align="justify" >
+
+Minha atuação nesse projeto se deu na atuação da posição de Product Owner (PO). Como PO, fui responsável por realizar o levantamento de requisitos do produto e interagir diretamente com o cliente Dom Rock para compreender detalhadamente as funcionalidades necessárias na aplicação. Além disso, defini as User Stories, quebrei as tarefas e requisitos para facilitar o desenvolvimento. Planejei o MVP a ser entregue em cada sprint. Também utilizei a plataforma Slack para esclarecer dúvidas com a empresa Dom Rock sobre o produto em desenvolvimento. Por fim, conduzi reuniões e cerimônias com o time de desenvolvimento, tal como refinamento técnico e planning, para que eu entendesse o processo para desenvolvimento de forma mais acertiva e explicasse corretamente as user histórias e tarefas técnicas correspondentes à cada uma para o time de desenvolvimento. Minha contribuição se estendeu ao design do produto, que foi desenvolvido no Figma. 
+
+### Resultado das páginas em front-end:
+ <img src='https://github.com/4DeskGroup/API-2024.1/blob/main/docs/gifs%20-%20S2/dashboards.gif'  height='400'>
+ 
+</div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+  
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> Figma  
+> Utilizado para desenvolver o protótipo.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode  
+> Utilizado para o desenvolvimento do código do projeto.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/> VueJS  
+> Utilizamos o framework VueJS para o desenvolvimento de todo o front-end do projeto.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python  
+> Utilizamos a linguagem de programação Python para o desenvolvimento da IA utilizando o framework LangChain.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript  
+> Utilizado para o desenvolvimento de todo o frontend do projeto.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GitHub  
+> Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradores.
+
+<img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/> Jira Software  
+> Utilizado como a principal ferramenta para o gerenciamento de todo o processo do projeto, gestão das sprints, organização de backlog, priorização de tarefas e controle de prazos, contribuindo para uma execução mais ágil e eficiente do projeto.
+
+
+   </details>
+ 
+### Hard skills
+* Criação de protótipos pelo Figma:
+> Sei fazer com autonomia.
+
+* Desenvolvimento de backlog e requisitos funcionais
+> Sei fazer com autonomia.
+
+* Escrita de User Stories e critérios de aceitação
+> Sei fazer com autonomia.
+
+* Desenvolvimento VueJS 
+> Sei fazer com ajuda.
+
+* Desenvolvimento Python para RAG com LangChain
+> Sei fazer com ajuda e pesquisa.
+
+* Desenvolvimento TypeScript
+> Sei fazer com ajuda.
+
+* Gerenciamento do projeto pelo Jira Software
+> Sei fazer com autonomia.
+
+### Soft skills
+* Organização 
+> Durante a primeira sprint, enfrentei dificuldades para organizar um backlog claro e coeso, especialmente por conta da inexperiência em traduzir requisitos funcionais e não funcionais para histórias de usuário compreensíveis. Com isso, desenvolvi minha habilidade de organização ao:
+ > - Estruturar o backlog com base nas necessidades do cliente, ajustando histórias mal definidas.
+ > - Utilizar o Jira para mapear requisitos e dividir tarefas de forma clara, mesmo quando era necessário refinar as histórias em meio à sprint.
+ > - Estabelecer um fluxo de priorização que ajudou a definir o que era mais importante entregar no MVP.
+
+* Comunicação 
+> Tive um início desafiador na comunicação, especialmente ao alinhar expectativas com o cliente e com o P2. Essa dificuldade resultou em histórias de usuário menos detalhadas e problemas no planejamento da sprint inicial. No entanto, essa experiência foi essencial para:
+  > - Aprender a estruturar perguntas mais direcionadas ao cliente, garantindo o entendimento das reais necessidades do projeto.
+  > - Desenvolver a habilidade de articular demandas e ajustar as entregas durante reuniões com a equipe, buscando minimizar ruídos e conflitos.
+ 
+* Proatividade
+> A necessidade de adaptar rapidamente minhas habilidades foi crucial, especialmente porque o projeto envolvia tecnologias e práticas com as quais eu tinha pouca experiência. Demonstrar proatividade foi essencial nos seguintes momentos:
+  > - Realizei pesquisas independentes sobre o uso e melhores práticas de desenvolvimento com VueJS (ou React Native, se for o caso), sendo meu primeiro contato com o framework.
+  > - Me dediquei a estudar boas práticas na escrita de histórias e na divisão de tarefas, aplicando o conhecimento adquirido em sprints futuras.
+  > - Identifiquei pontos de melhoria no planejamento das sprints e implementei ajustes, como refinar estimativas e alinhar expectativas com os desenvolvedores, para evitar tarefas subestimadas.
+
+* Trabalho em equipe
+> A colaboração foi essencial para superar os desafios das primeiras sprints. Trabalhei em equipe de forma ativa ao:
+  > - Participar de reuniões regulares com os desenvolvedores para entender suas dificuldades e ajustar o planejamento das sprints de forma colaborativa.
+  > - Dividir tarefas e responsabilidades de forma clara, promovendo um ambiente onde todos pudessem contribuir com suas ideias e encontrar soluções para os problemas do projeto.
+  > - Aceitar feedback do time técnico sobre o detalhamento de histórias e estimativas de story points, utilizando esse aprendizado para aprimorar os planejamentos futuros.
