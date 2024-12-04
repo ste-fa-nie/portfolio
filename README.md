@@ -51,14 +51,12 @@ Durante o 2º semestre da faculdade, participei de um treinamento de metodologia
 
 > [Link para a API do 1º Semetre](https://github.com/4DeskGroup/API-2022.1)
 
-O projeto integrador do primeiro semestre do curso envolveu colaboração com um cliente interno, um dos professores. Seu propósito central consistia em um site web que listava vagas de empregos e cursos na área de tecnologia. Para alcançar esse objetivo, foi necessário a criação de um site e o desenvolvimento de um programa em Python projetado para a raspagem de dados para puxar as vagas de emprego e cursos de especialização em tecnologia disponiveis.
+***Problema*** </br>
+O projeto integrador do primeiro semestre teve como objetivo desenvolver uma plataforma web para centralizar o acesso a vagas de emprego e cursos de especialização na área de tecnologia. Identificamos, em parceria com o cliente interno, Professor Antonio Egydio, que a falta de um único ponto de referência para essas informações tornava o processo de busca demorado e frustrante. Isso ocorria devido à dispersão de informações em diversas plataformas e à dificuldade em encontrar dados atualizados.
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Página Home;
-- Página de Cursos e Certificações
-- Página de Vagas de Emprego
-- Página de Métricas
-- Página de Localização
+***Solução*** </br>
+Nossa equipe desenvolveu um site web com design moderno e navegação intuitiva, focado em melhorar a experiência do usuário. Para automatizar o processo de coleta e atualização de dados, criamos um programa em Python que realiza o web scraping de vagas de emprego e cursos, garantindo que as informações fossem constantemente atualizadas sem necessidade de de fazer uma extração manual.
+
 </Div>
 
 ### Tecnologias utilizadas
@@ -168,42 +166,49 @@ for i in range(1,int(65)):
 
 ### Soft skills
 
-* Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
- 
+
 * Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> Como não tinha muito conhecimento sobre programação, já que era meu primeiro semestra na faculdade, fui bastante proativa ao estudar sobre bases da programação em Python e aprendi a fazer raspagem de dados para aplicar no projeto a ser desenvolvido.
 
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+* Persistência
+> Como iniciante na área de tecnologia, me senti frustrada muitas vezes por não conseguir resultados logo de inicio e mesmo com a dificuldade já que os professores não ensinaram a matéria que estávamos utilizando para desenvolver o projeto e não conseguirem ajudar muito conforme eu ia tirar dúvidas, ainda assim persisti e estudei por conta própria a aplicação das tecnologias e consegui desenvolver a raspagem de dados em Python com sucesso.
 
-
-### Em 2022-1
+### Em 2022-2
 
 <Div align="justify" >
   
 > [Link para a API do 2º Semetre](https://github.com/4DeskGroup/API-2022.2)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Track Cash. Seu propósito central consistia em uma aplicação desktop com objetivo de integração de registros de canais de vendas; em lojas físicas ou online; com o cliente que quer acessar a plataforma, afim de interagir as informações de vendas desses canais. Para alcançar esse objetivo, foi necessário a criação de um software desktop intalável.
+***Problema*** </br>
+O projeto integrador do segundo semestre teve como objetivo desenvolver uma aplicação desktop para o cliente Track Cash, uma empresa do setor financeiro especializada em controle de gastos. Identificamos que a integração dos registros de vendas dos canais físicos e online era uma necessidade crucial para o cliente. Antes do projeto, a consulta e gestão desses dados eram descentralizadas, dificultando a interação eficiente dos usuários e impactando a experiência geral.
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Home
-- Login
-- Cadastro
-- Cadastrar canal de vendas
-- Configuração ativas
-- Configurações de canais
-- Canais ativos
-- Dúvidas frequentes
-- Desativar atividade de usuário
-- Alterar senha.
+***Solução*** </br>
+Nossa equipe desenvolveu um software desktop instalável, projetado para integrar os registros de vendas de diferentes canais. O sistema permitiu que os usuários interagissem diretamente com os dados em tempo real, centralizando as informações em uma plataforma única e funcional. </br>
+
+Para atender aos requisitos do cliente, desenvolvemos diversas telas, incluindo:</br>
+
+- Home: Interface principal para navegação geral.
+- Login: Autenticação dos usuários.
+- Cadastro: Registro de novos usuários.
+- Cadastrar Canal de Vendas: Inclusão de novos canais, sejam físicos ou online.
+- Configuração Ativas: Gestão das configurações gerais do sistema.
+- Configurações de Canais: Personalização das configurações específicas de cada canal de vendas.
+- Canais Ativos: Exibição e gestão dos canais em operação.
+- Dúvidas Frequentes: Suporte aos usuários com questões recorrentes.
+- Desativar Atividade de Usuário: Ferramenta administrativa para gerenciar acessos.
+- Alterar Senha: Atualização de credenciais de forma segura.
+
 </Div>
 
 ### Contribuições pessoais
 
 <Div align="justify" >
 
-Atuei como Scrum Master durante esse projeto e também contribui no desenvolvimento do protótipo e das interfaces e funcionalidades de visualização e filtragem, edição e exclusão de canais e usuários. Para organizar a equipe e o projeto, utilizei de ferramentas de gestão de documentos e processos como Notion e Planner. Através delas, foi possível documentar as atividades de cada membro da equipe e suas contribuições, permitindo uma visão mais ampla do progresso do projeto como um todo. Faziamos reuniões durante as aulas disponibilizadas para API (2 a 3 vezes na semana) e outras reuniões pontuáis conforme via necessidade.
+Durante o projeto, assumi o papel de Scrum Master, sendo responsável pela organização das tarefas e pelo alinhamento da equipe. Minhas contribuições principais foram: </br>
+
+- Gestão do Projeto: Utilizei ferramentas como Notion e Planner para documentar e acompanhar o progresso das atividades, garantindo que cada membro estivesse ciente de suas responsabilidades e prazos.
+- Condução de Reuniões: Realizamos reuniões regulares durante as aulas de API e encontros pontuais sempre que necessário para resolver bloqueios ou ajustar prioridades.
+- Desenvolvimento das Interfaces: Trabalhei na criação de protótipos no Figma e participei ativamente na implementação das telas relacionadas à visualização, edição e exclusão de canais e usuários, garantindo que as funcionalidades atendessem às necessidades do cliente.
 
 ### Resultado das telas:
  <img src='https://github.com/4DeskGroup/API-2022.2/raw/main/doc/sprint%202/gifs/Campo%20de%20Busca.gif' width='65%' height='65%'>
@@ -243,10 +248,10 @@ Atuei como Scrum Master durante esse projeto e também contribui no desenvolvime
 > Como Scrum Master, consegui auxiliar a equipe a se organizar através de plataformas de gestão de projetos e controle de tempo. Com reuniões de equipe, decidimos o peso das atividades através do desenvolvimento do burndown e backlog.
 
 * Comunicação 
-> Como Scrum Master, ajudei a resolver conflitos, já que houveram alguns desentendimentos entre os membros da equipe, e complicações pessoais que acabaram refletindo no trabalho. Através de conversas individuais e em grupo, entramos num consenso juntos para que ninguém se sobrecarregasse ou se desentendesse. Assim, conseguimos superar os obstáculos e entregar tudo conforme o esperado.
+> Como Scrum Master, ajudei a resolver conflitos, já que houveram alguns desentendimentos entre os membros da equipe, e complicações pessoais que acabaram refletindo no trabalho. Dois membros da equipe se sentiram sobrecarregados com a divisão de tarefas, onde eles acabaram fazendo mais do que deviam e ficaram estressados com a sobrecarga de trabalho, porém não comunicaram à equpe, então só depois que descobrimos que pude auxiliar e conversar com a equipe para distribuirmos as tarefas de forma mais igualitária. Através de conversas individuais e em grupo, entramos num consenso juntos para que ninguém se sobrecarregasse ou se desentendesse. Assim, conseguimos superar os obstáculos e entregar tudo conforme o esperado.
  
 * Proatividade e Trabalho em equipe
-> Como Scrum Master, procurei ajudar meus colegas caso tivessem dificuldade em se organizar ou aprender a tecnologia, para que não houvessem atrasos nas entregas. Ajudei no desenvolvimento do projeto também.
+> Como Scrum Master, procurei ajudar meus colegas caso tivessem dificuldade em se organizar ou aprender a tecnologia, para que não houvessem atrasos nas entregas. Ajudei no desenvolvimento do projeto também, como nas interfaces de cadastrar um canal, editar um canal, editar usuários e dúvidas frequentes.
 
 <hr /> 
 
@@ -256,16 +261,19 @@ Atuei como Scrum Master durante esse projeto e também contribui no desenvolvime
 
 > [Link para a API do 3º Semetre](https://github.com/4DeskGroup/API-2023.1)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Visiona. Seu propósito central consistia em uma aplicação web com objetivo de Desenvolver um sistema de Gerenciamento de Usuário, com tecnologia de micro serviços. Uma interface permitindo que os usúarios, sejam, criados, visualizados, editados e removidos.
+***Problema***  </br>
+O projeto integrador do terceiro semestre teve como objetivo desenvolver uma aplicação web para o cliente Visiona, uma empresa do setor espacial, voltada para o Gerenciamento de Usuários. O cliente enfrentava dificuldades com um processo manual de controle de acessos, que era propenso a erros, comprometia a produtividade e dificultava a administração de informações críticas.
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
-- Home
-- Login
-- Cadastro
-- Dashboard de usuários
-- Lista de usuários.
-- Edição e exclusão de usuário
-</Div>
+***Solução***  </br>
+Desenvolvemos uma aplicação web baseada em tecnologia de micro serviços, garantindo escalabilidade e modularidade. O sistema ofereceu uma interface intuitiva, permitindo que os administradores realizassem ações de criação, visualização, edição e exclusão de usuários de forma eficiente e segura.</br>
+
+As páginas funcionais implementadas no projeto incluíram:</br>
+
+- Home: Interface inicial para navegação e apresentação do sistema.
+- Login: Autenticação de administradores e usuários autorizados.
+- Cadastro: Inclusão de novos usuários.
+- Dashboard de Usuários: Monitoramento e métricas dos usuários no sistema.
+- Lista de Usuários: Visualização geral com funcionalidades de edição e exclusão de registros.
 
 ### Contribuições pessoais
 
@@ -317,16 +325,13 @@ Durante o projeto do terceiro semestre, construi o protótipo pelo figma e atuei
 
 ### Soft skills
 * Organização 
-> Aquiri por meio da gestão do projeto, gestão da equipe, separação de tarefas e controle de tempo e peso das atividades através do desenvolvimento do burndown e backlog.
-
-* Comunicação 
-> Alcancei por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e resoluções de conflitos e empecilhos no meio do projeto. 
+> Planejei e gerenciei minhas atividades de forma eficiente, documentando e priorizando tarefas para garantir um fluxo de trabalho produtivo. Consegui lidar com múltiplas responsabilidades ao mesmo tempo, entregando várias telas funcionais e assegurando alta qualidade no código.
  
 * Proatividade
-> Alcançada por meio de pesquisas sobre como usar e desenvolver com a tecnologias, pesquisas sobre como melhorar o desenvolvimento da equipe e metodologia SCRUM.
+> Durante o projeto, evoluí significativamente no uso de tecnologias como Node.js, React e PostgreSQL, aumentando minha capacidade técnica. Contribuí diretamente para o avanço do projeto ao implementar soluções eficientes e de impacto para o cliente.
 
 * Trabalho em equipe
-> Capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> Atuei como um ponto de apoio constante para a equipe, auxiliando na solução de problemas e na troca de conhecimentos. Fui proativa em compartilhar aprendizados e realizar melhorias no projeto, sempre mantendo a comunicação clara e alinhada com os colegas.
 
 <hr /> 
 
@@ -338,9 +343,12 @@ Durante o projeto do terceiro semestre, construi o protótipo pelo figma e atuei
 
 > [Link para a API do 4º Semetre](https://github.com/4DeskGroup/API-2023.2)
 
-O projeto integrador do segundo semestre do curso envolveu colaboração com cliente Greenneat. Seu propósito central consistia em uma aplicação web com objetivo de Criar uma plataforma que gerencie os créditos a serem usados como contrapartida no momento da coleta do material pelo parceiro da Greenneat nos estabelecimentos cadastrados. De forma que os créditos poderão ser usados posteriormente para compra dos saneantes na loja virtual..
+***Problema***  </br>
+O projeto integrador deste semestre foi desenvolvido em parceria com o cliente Greenneat, uma empresa focada no controle e descarte sustentável de óleo usado. A necessidade principal era a criação de uma plataforma de gestão de créditos, que automatizasse o processo de coleta de materiais recicláveis e permitisse que os créditos gerados fossem usados para a aquisição de produtos na loja virtual da Greenneat. Antes disso, o cliente enfrentava problemas devido à gestão manual dos processos, que era ineficiente e pouco transparente.
 
-As interfaces desenvolvidas no projeto como requisitos funcionais foram:
+***Solução***  </br>
+A equipe desenvolveu uma aplicação web moderna e funcional, que abrange todo o fluxo do processo, desde o cadastro de parceiros e coleta de materiais até a utilização de créditos para compras. As funcionalidades principais incluíram: </br>
+
 - Home
 - Login
 - Cadastro
@@ -352,6 +360,9 @@ As interfaces desenvolvidas no projeto como requisitos funcionais foram:
 - Definição do valor do óleo
 - Histórico de compra de óleo
 - Tranferência de greenneats.
+  </br>
+A aplicação foi projetada para ser intuitiva, eficiente e segura, atendendo a todas as necessidades do cliente e contribuindo para a transparência e sustentabilidade do processo.
+
   
 </Div>
 
@@ -442,9 +453,19 @@ Atuei no desenvolvimento do protótipo e das interfaces (frontend) de cadastro c
 
 > [Link para a API do 5º Semetre](https://github.com/4DeskGroup/API-2024.1)
 
-O projeto integrador do quinto semestre do curso envolveu colaboração com cliente Oracle. Seu propósito central consistia em desenvolver um sistema de gestão de parceiros para a Oracle. Este sistema será responsável por cadastrar novos parceiros, gerenciar atualizações de informações, acompanhar o desenvolvimento de conhecimento dos parceiros e fornecer relatórios relevantes – em plataforma mobile
+***Problema*** </br>
+O projeto integrador do quinto semestre foi realizado em parceria com a Oracle, uma empresa líder em softwares para desenvolvimento, bancos de dados e ERPs. A Oracle enfrentava dificuldades no processo de gestão de parceiros devido à descentralização e à falta de automação. O processo era manual e pouco eficiente, o que dificultava o acompanhamento do desempenho e do desenvolvimento dos parceiros, além de gerar inconsistências e atrasos na atualização de informações.
 
-As páginas desenvolvidas no projeto como requisitos funcionais foram:
+***Solução*** </br>
+Nossa equipe desenvolveu uma aplicação mobile moderna para gestão de parceiros, atendendo às demandas da Oracle. O sistema foi projetado para centralizar processos, permitindo:
+
+- Cadastro de novos parceiros e consultores de alianças.
+- Atualização de informações de forma eficiente.
+- Acompanhamento do desenvolvimento e desempenho dos parceiros por meio de dashboards detalhados.
+- Geração de relatórios estratégicos para tomada de decisão.
+
+As páginas desenvolvidas foram:
+
 - Interface de login
 - Interface de cadastro de parceiros
 - Interface de consultores de alianças
@@ -527,16 +548,20 @@ Contribuí também no design do produto, feito no Figma e no desenvolvimento fro
 
 > [Link para a API do 6º Semetre](https://github.com/4DeskGroup/API-2024.2)
 
-O projeto integrador do sexto semestre do curso envolveu colaboração com cliente Dom Rock. O desafio foi desenvolver uma IA capaz de analisar e gerar insights a partir de reviews de produtos de e-commerce, ajudando o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deveria ser capaz otimizar o processo de escolha de fornecedores e produtos, levando em consideração feedbacks de consumidores para área de compras de uma empresa. A utilização do usuário com a IA foi voltada para avaliar a qualidade e aceitação de produtos com base em reviews, identificar tendências e preferências dos consumidores e comparar fornecedores com base em feedback de clientes.
+***Problema*** </br>
+O Projeto Integrador do 6º semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Dom Rock, uma empresa especializada em Inteligência Artificial. O problema apresentado era a falta de um processo eficiente para analisar grandes volumes de reviews de produtos de e-commerce. Essa lacuna dificultava a tomada de decisões no departamento de compras corporativas, pois as análises manuais eram demoradas e imprecisas, limitando a capacidade de identificar tendências de mercado e realizar comparações detalhadas entre fornecedores e produtos.
 
+***Solução*** </br>
+Para resolver esse problema, foi desenvolvida uma solução de IA capaz de analisar dados de reviews e gerar insights estratégicos. O sistema utilizou o framework LangChain e técnicas de chunking, embeddings e RAG (Retrieval-Augmented Generation), com armazenamento e buscas otimizadas no banco de dados vetorial FAISS.
 
-Foi desenvolvida apenas uma interface visual para o chatbot que abrangeu os seguintes requisitos funcionais foram:
-RF1 - Especificações de Produtos a partir de Reviews
-RF2 - Sugestões de Produtos, por categoria inclusive
-RF3 - Comparações de Produtos, levando em conta custo-benefício
-RF4 - Análise de Sentimento a partir de Reviews
-RF5 - Análise de Tendências de Opinião
-RF6 - Personalização de Respostas com Base no Histórico de Conversa
+No front-end, foi criada uma interface web interativa utilizando VueJS e TypeScript, com integração de um chatbot que permitia interações dinâmicas com a IA. O chatbot gerava respostas detalhadas para questões sobre produtos, oferecendo insights baseados em análises como:
+
+- Especificações de produtos com base em reviews.
+- Sugestões de produtos por categorias.
+- Comparações custo-benefício.
+- Análise de sentimentos e tendências de opinião dos consumidores.
+- A abordagem integrada otimizou a seleção de fornecedores e produtos, contribuindo para decisões mais assertivas no departamento de compras.
+
 </Div>
 
 ### Contribuições pessoais
@@ -608,7 +633,7 @@ Minha atuação nesse projeto se deu na atuação da posição de Product Owner 
  > - Estabelecer um fluxo de priorização que ajudou a definir o que era mais importante entregar no MVP.
 
 * Comunicação 
-> Tive um início desafiador na comunicação, especialmente ao alinhar expectativas com o cliente e com o P2. Essa dificuldade resultou em histórias de usuário menos detalhadas e problemas no planejamento da sprint inicial. No entanto, essa experiência foi essencial para:
+> Tive um início desafiador na comunicação, especialmente ao alinhar expectativas com o cliente e com o P2, já que quando fui validar a escrita das histórias com ele, ele não foi muito claro no que havia de errado e fui penalizada nos resultados da sprint e precisei refazer durante o inicio da segunda sprint, gerando um pouco de confusão para os desenvolvedores. Essa dificuldade resultou em histórias de usuário menos detalhadas e problemas no planejamento da sprint inicial. No entanto, essa experiência foi essencial para:
   > - Aprender a estruturar perguntas mais direcionadas ao cliente, garantindo o entendimento das reais necessidades do projeto.
   > - Desenvolver a habilidade de articular demandas e ajustar as entregas durante reuniões com a equipe, buscando minimizar ruídos e conflitos.
  
